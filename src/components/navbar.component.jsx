@@ -184,6 +184,7 @@ const NavbarComponent = () => {
                     as={NavLink}
                     to="/signin"
                     className="btn btn-dark px-3 my-2 mx-lg-2"
+                    style={{ color: 'white', fontWeight: 'bold' }}
                   >
                     Sign In
                   </Nav.Link>
@@ -191,6 +192,7 @@ const NavbarComponent = () => {
                     as={NavLink}
                     to="/signup"
                     className="btn btn-dark px-3 my-2 mx-lg-2"
+                    style={{ color: 'white', fontWeight: 'bold' }}
                   >
                     Sign Up
                   </Nav.Link>
