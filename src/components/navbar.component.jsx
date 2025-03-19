@@ -172,6 +172,15 @@ const NavbarComponent = () => {
               >
                 About Me
               </Nav.Link>
+
+              <Nav.Link
+                href="https://www.youtube.com/@elly.thehyggeexplorer"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="custom-hover capitalize text-center btn-border-bottom"
+              >
+                YouTube
+              </Nav.Link>
             </Nav>
 
             {/* Chỉnh lại phần Sign In/Sign Up để hiển thị đẹp trên mobile */}
