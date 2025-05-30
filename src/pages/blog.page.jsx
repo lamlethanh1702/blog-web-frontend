@@ -14,7 +14,7 @@ import CommentsContainer, {
 const Header = () => {
   return (
     <div className="header-page text-center py-6">
-      <h1 className="text-4xl font-bold font-playfair">The Hygge Explorer</h1>
+      <h1 className="text-4xl font-bold font-playfair">Mai Vo</h1>
     </div>
   );
 };
